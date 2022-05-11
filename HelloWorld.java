@@ -15,4 +15,8 @@ public class HelloWorld {
     protected int multiply(int a, int b) {
         return a * b;
     }
+
+    protected int multiplyBy5(int a) {
+        return a * 5;
+    }
 }
