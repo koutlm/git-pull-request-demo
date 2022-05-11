@@ -8,7 +8,7 @@ public class HelloWorld {
         return a + b;
     }
 
-    protected int plus5(int a) {
-        return a + 5;
+    protected int plus10(int a) {
+        return a + 10;
     }
 }
