@@ -16,7 +16,7 @@ public class HelloWorld {
         return a * b;
     }
 
-    protected int multiplyBy5(int a) {
-        return a * 5;
+    protected int multiplyBy10(int a) {
+        return a * 10;
     }
 }
