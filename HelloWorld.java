@@ -7,4 +7,8 @@ public class HelloWorld {
     protected int add(int a, int b) {
         return a + b;
     }
+
+    protected int plus5(int a) {
+        return a + 5;
+    }
 }
