@@ -11,4 +11,8 @@ public class HelloWorld {
     protected int plus10(int a) {
         return a + 10;
     }
+
+    protected int multiply(int a, int b) {
+        return a * b;
+    }
 }
