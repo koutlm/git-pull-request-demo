@@ -4,19 +4,4 @@ public class HelloWorld {
         System.out.println("Hello World");
     }
 
-    protected int add(int a, int b) {
-        return a + b;
-    }
-
-    protected int plus10(int a) {
-        return a + 10;
-    }
-
-    protected int multiply(int a, int b) {
-        return a * b;
-    }
-
-    protected int multiplyBy10(int a) {
-        return a * 10;
-    }
 }
