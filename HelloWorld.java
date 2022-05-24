@@ -9,7 +9,7 @@ public class HelloWorld {
     }
 
     public int add (int a){
-        return a+10;
+        return a+5;
     }
 
 }
