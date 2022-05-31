@@ -8,8 +8,8 @@ public class HelloWorld {
 
     private static int add(int a, int b) {
         return a+b;
-    }private int add5 (int a) {
-        return a + 5;
+    }private int add10 (int a) {
+        return a + 10;
     }
 
 }
