@@ -14,4 +14,7 @@ public class HelloWorld {
         return a + 10;
     }
 
+    private static int substract(int a, int b) {
+        return a-b;
+    }
 }
