@@ -10,5 +10,8 @@ public class HelloWorld {
         return a+b;
     }
 
+    private int add5 (int a) {
+        return a + 5;
+    }
 
 }
