@@ -12,4 +12,8 @@ public class HelloWorld {
     private int add5 (int a) {
         return a + 10;
     }
+
+    private static int minus(int a, int b) {
+        return a-b;
+    }
 }
