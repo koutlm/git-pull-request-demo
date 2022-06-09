@@ -9,4 +9,7 @@ public class HelloWorld {
     private static int add(int a, int b) {
         return a+b;
     }
+    private int addConst (int a) {
+        return a + 5;
+    }
 }
