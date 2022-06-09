@@ -10,6 +10,6 @@ public class HelloWorld {
         return a+b;
     }
     private int addConst (int a) {
-        return a + 5;
+        return a + 10;
     }
 }
