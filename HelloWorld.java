@@ -1,6 +1,20 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        int a = 5;
+        int b = 2;
+        System.out.println(a + "+" + b + "=" + add(a,b));
+    }
+
+    private static int add(int a, int b) {
+        return a+b;
+    }
+
+    private int addConst (int a) {
+        return a + 10;
+    }
+
+    private static int minus(int a, int b) {
+        return a-b;
     }
 }
